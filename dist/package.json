@@ -1,6 +1,6 @@
 {
   "name": "deepak-my-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./cjs/index.js",
   "module": "./index.js",
   "typings": "./index.d.ts",
@@ -14,6 +14,10 @@
     "react-scripts": "^3.4.3",
     "typescript": "^4.8.4",
     "web-vitals": "^2.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepak-contentstack/demo-app.git"
   },
   "eslintConfig": {
     "extends": [
