@@ -1,5 +1,5 @@
 {
-    "name": "deepak-my-appnwww",
+    "name": "deepak-my-app",
     "version": "0.1.1",
     "main": "dist/cjs/index.js",
     "module": "dist/index.js",
