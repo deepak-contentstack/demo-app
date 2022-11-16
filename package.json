@@ -78,6 +78,9 @@
         "rollup-plugin-terser": "^7.0.2",
         "rollup-plugin-typescript2": "^0.34.1"
     },
+    "files": [
+        "dist"
+    ],
     "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
     "author": "",
     "license": "ISC"
